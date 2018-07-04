@@ -5,3 +5,5 @@ App contains voice input which reads from user and performs actions like changin
 
 contributors:venkat sai,yeshwanth sai,koti reddy.
 Guide : Kolluri Suresh 
+
+Pull Request 2
