@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiniProject</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
 </resources>
