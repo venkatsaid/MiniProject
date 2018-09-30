@@ -1,5 +1,6 @@
 # MiniProject
-
-This project contains an android application which connects to online database.
-App contains voice input which reads from user and performs actions like changing the images or switch button state changes.
-project guide:k.suresh babu
+Name: Switch control System
+Description: This project contains an android application which connects to online database(Fire Base).
+App contains buttons which performs actions like changing the state of switch mode on/off.
+Components used: NodeMCU, two way relay module.
+Tools used: Android studio for developing mobile app, Arduino IDE for coding NodeMCU.
